@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.template": "log",
+        "stdio.h": "c",
+        "ctype.h": "c",
+        "random": "c",
+        "stdbool.h": "c",
+        "token.h": "c",
+        "functional": "c"
+    }
+}
